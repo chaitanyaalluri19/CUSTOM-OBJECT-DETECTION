@@ -1,0 +1,7 @@
+
+
+train: ./Dataset/images/train  # Path to your training images
+val: ./Dataset/images/val      # Path to your validation images
+
+nc: 2  # Number of classes (replace this with your actual number of classes)
+names: ['maxihall', 'collegemap']  # Replace these with your actual class names
