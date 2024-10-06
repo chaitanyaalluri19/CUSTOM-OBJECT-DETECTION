@@ -2,7 +2,6 @@
 """
 Created on Sun Dec 25 20:46:55 2022
 
-@author: kamipakistan
 """
 import numpy as np
 import cv2
